@@ -1,0 +1,18 @@
+a. git init {iniciar o git}
+b. git config --global user.name "turing" { setar um usuario}
+c. git add EXERCICIO.txt   {adicionar o arquivo exercicio.txt na area de espera}
+d. git add -A {  adicionar todos arquivos na area de espera }
+e. git commit -m "Adicionado nova interface"   { adiciona um comentário no proximo comite de Adicionado nova interface }
+f. git commit   { criar um commit}
+g. git reset --hard HEAD    {  voltar um comit  }
+h. cd Downloads   { entrar no diretório Downloads }
+i. pwd  { mostrar trilha de diretório}
+j. cd ..   { voltar 1 diretório}
+k. ls   { listar conteúdo  }
+l. git pull   { baixar os arquivos do diretório remoto}
+m. git push  { subir os arquivos da área de espera}
+n. git clone <<url>>  { clonar um repositório remoto}
+o. git diff {comprar as diferenças entre 2 commit}
+p. git show { exibir conteúdo de acordo com o parâmetro }
+
+
