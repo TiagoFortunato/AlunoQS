@@ -1,0 +1,4 @@
+repositorio https://github.com/mapasculturais/mapasculturais
+Merge: 6df7629f6 133ca093f
+Author: robedj <ed.wassouf@gmail.com>
+Date:   Mon May 2 10:55:52 2022 -0400
