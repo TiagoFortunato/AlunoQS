@@ -1,0 +1,19 @@
+    4  cd prj1/
+    5  git init
+    6  git config --global user.name "TiagoFortunato"
+    7  git add -A
+    8  git status
+    9  git commit -m "primeiro"
+   10  git config --global user.email "tiago.fortunato02@gmail.com"
+   11  git commit -m "primeiro"
+   12  git main
+   13  git branch main
+   14  git commit -m "primeiro"
+   15  git add -A
+   16  git commit -m "primeiro"
+   17  git status
+   18  git commit -m "  segundo"
+   19  git add -A
+   20  git commit -m "  segundo"
+   21  git commit -m "segundo"
+   22  history
